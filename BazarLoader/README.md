@@ -33,7 +33,7 @@ This CTI comes from https://twitter.com/th3_protoCOL/status/1488600980979552256?
 
 ### BazarLoaderStage1
 1. Download and import the BazarLoaderStage1 SCYTHE Threat JSON
-2. Create a new Campaign, Select DiavolStage1 in Existing User-Defined Threats, and click Add Steps
+2. Create a new Campaign, Select DiavolStage1 in Existing Community Threats, and click Add Steps
 3. Start Campaign
 4. Select Download, File type DLL, and change the Entry-point function name to spload
 5. Download and change the file name to DumpStack.log 

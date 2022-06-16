@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "An example threat replicating the actions taken by SysJoker malware on Linux. ",
         "display_name": "SysJoker",
         "name": "SysJoker",

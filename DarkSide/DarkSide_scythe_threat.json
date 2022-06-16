@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "DarkSide Ransomware based on CyberReason Cyber Threat Intelligence https://www.cybereason.com/blog/cybereason-vs-darkside-ransomware",
         "display_name": "DarkSide",
         "name": "DarkSide",

@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "https://thedfirreport.com/2022/04/25/quantum-ransomware/",
         "display_name": "IcedID",
         "name": "IcedID",

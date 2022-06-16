@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Top 10 TTPs used by ransomware",
         "display_name": "Ransomware_Top_10",
         "name": "Ransomware_Top_10",

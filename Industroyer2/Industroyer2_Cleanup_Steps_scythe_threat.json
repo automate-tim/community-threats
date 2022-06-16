@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Industroyer3 clean up steps (5/25/22)",
         "display_name": "Industroyer2_Cleanup_Steps",
         "name": "Industroyer2_Cleanup_Steps",

@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "https://app.any.run/tasks/c5dc698b-8e86-4e50-8b32-d8f45f7538b3/",
         "display_name": "BazarLoaderStage0",
         "name": "BazarLoaderStage0",

@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Linux Variant of Desrubi",
         "display_name": "Deep Panda Desrubi",
         "name": "Deep Panda Desrubi",

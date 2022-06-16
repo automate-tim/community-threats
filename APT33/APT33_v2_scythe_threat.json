@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Community APT33 Threat, plus Registry Keys and Preparing for Persist.",
         "display_name": "APT33 v2",
         "name": "APT33 v2",

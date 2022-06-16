@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Conti ransomware based on The DFIR Report: https://thedfirreport.com/2021/05/12/conti-ransomware/",
         "display_name": "Conti",
         "name": "Conti",

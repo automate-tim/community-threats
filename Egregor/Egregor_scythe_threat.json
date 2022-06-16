@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Egregor",
         "display_name": "Egregor",
         "name": "Egregor",

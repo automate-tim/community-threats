@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "https://github.com/scythe-io/community-threats/tree/master/Diavol",
         "display_name": "DiavolStage2",
         "name": "DiavolStage2",

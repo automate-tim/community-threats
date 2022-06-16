@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Top techniques from Red Canary 2022 Threat Detection Report",
         "display_name": "RedCanary2022TDR",
         "name": "RedCanary2022TDR",

@@ -1,9 +1,9 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Berserk Bear",
-        "display_name": "Threat Thursday - Berserk Bear",
-        "name": "Threat Thursday - Berserk Bear",
+        "display_name": "Berserk Bear",
+        "name": "Berserk Bear",
         "operating_system_name": "windows",
         "script": {
             "0": {

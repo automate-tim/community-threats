@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined", 
+        "category": "Community-Threat", 
         "description": "Cozy Bear Step 2 of the MITRE ATT&CK Evaluations Adversary Emulation Plan", 
         "display_name": "CozyBear-Step2", 
         "name": "CozyBear-Step2", 

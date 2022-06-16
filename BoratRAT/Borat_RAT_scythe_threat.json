@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Device discovery, keylogging, screen capture, clipboard stealing, microphone audio capture, unmanaged powershell running .Net DLLs, drops ransom note (no file encryption)",
         "display_name": "Borat RAT",
         "name": "Borat RAT",

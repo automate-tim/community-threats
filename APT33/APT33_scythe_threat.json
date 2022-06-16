@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "APT33 is a suspected Iranian threat group that has carried out operations since at least 2013.",
         "display_name": "APT33",
         "name": "APT33",

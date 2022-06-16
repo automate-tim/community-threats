@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "NetWire RAT CTI Emulation from BlackBerry ThreatVector Blog.\nhttps://blogs.blackberry.com/en/2021/09/threat-thursday-netwire-rat-is-coming-down-the-line",
         "display_name": "NetWire RAT",
         "name": "NetWire RAT",

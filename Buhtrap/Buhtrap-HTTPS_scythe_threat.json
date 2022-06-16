@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Short-haul C2 over HTTPS for the collection portion of Buhtrap Adversary Emulation",
         "display_name": "Buhtrap-HTTPS",
         "name": "Buhtrap-HTTPS",

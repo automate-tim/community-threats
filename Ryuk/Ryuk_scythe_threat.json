@@ -1,9 +1,9 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Ryuk Ransomware for Threat Thursday!",
-        "display_name": "Threat Thursday - Ryuk Ransomware",
-        "name": "Threat Thursday - Ryuk Ransomware",
+        "display_name": "Ryuk Ransomware",
+        "name": "Ryuk Ransomware",
         "operating_system_name": "windows",
         "script": {
             "0": {

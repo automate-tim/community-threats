@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "A SCYTHE Threat based off of the Center for Threat Informed Defense FIN6 Emulation YAML, and specifically, the Phase 1 behaviors. https://github.com/center-for-threat-informed-defense/adversary_emulation_library/tree/master/fin6",
         "display_name": "FIN6 Phase1",
         "name": "FIN6_Phase1",

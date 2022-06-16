@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "https://github.com/scythe-io/community-threats/tree/master/WhiteRabbit",
         "display_name": "WhiteRabbit_v1",
         "name": "WhiteRabbit_v1",

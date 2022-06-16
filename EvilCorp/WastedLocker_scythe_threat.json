@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "WastedLocker is the ransomware that was used by EvilCorp in the July 2020 attack against Garmin.",
         "display_name": "WastedLocker",
         "name": "WastedLocker",

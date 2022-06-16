@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "This threat is based on Microsoft Threat Intelligence Center (MSTIC) report post on July 13, 2021: https://www.microsoft.com/security/blog/2021/07/13/microsoft-discovers-threat-actor-targeting-solarwinds-serv-u-software-with-0-day-exploit/",
         "display_name": "DEV-0322",
         "name": "DEV-0322",

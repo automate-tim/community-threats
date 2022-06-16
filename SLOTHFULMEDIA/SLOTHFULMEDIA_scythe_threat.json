@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-275a",
         "display_name": "SLOTHFULMEDIA",
         "name": "SLOTHFULMEDIA",

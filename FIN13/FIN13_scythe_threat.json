@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "FIN13 is a financially motivated threat actor tracked by Mandiant and known to target Mexican organizations with passive backdoors.\n\nhttps://www.mandiant.com/resources/fin13-cybercriminal-mexico",
         "display_name": "FIN13",
         "name": "FIN13",

@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Florida water plant attack in February 2021 where the attacker obtained access through TeamViewer. This plan exposes TeamViewer credential through a variety of procedures",
         "display_name": "FloridaWater",
         "name": "FloridaWater",

@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Based on CTI from: https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware",
         "display_name": "Phobos",
         "name": "Phobos",

@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "https://www.ic3.gov/Media/News/2022/220204.pdf",
         "display_name": "LockBit",
         "name": "LockBit",

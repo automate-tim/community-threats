@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "This campaign performs many of the reported follow-on actions from Industroyer2 as reported by CERT-UA.",
         "display_name": "Industroyer2",
         "name": "Industroyer2",

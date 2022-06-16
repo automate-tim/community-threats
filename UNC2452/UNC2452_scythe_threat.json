@@ -1,7 +1,7 @@
 {
     "threat": {
-        "category": "User-Defined",
-        "description": "UNC2452 - Threat Thursday",
+        "category": "Community-Threat",
+        "description": "UNC2452",
         "display_name": "UNC2452",
         "name": "UNC2452",
         "operating_system_name": "windows",

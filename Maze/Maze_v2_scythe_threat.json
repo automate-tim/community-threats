@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Mazev2",
         "display_name": "Mazev2",
         "name": "Mazev2",

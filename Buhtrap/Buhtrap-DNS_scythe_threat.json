@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Long-haul C2 over DNS for the persistence portion of Buhtrap Adversary Emulation",
         "display_name": "Buhtrap-DNS",
         "name": "Buhtrap-DNS",

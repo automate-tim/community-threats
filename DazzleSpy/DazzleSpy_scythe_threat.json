@@ -1,6 +1,6 @@
 {
     "threat": {
-        "category": "User-Defined",
+        "category": "Community-Threat",
         "description": "Dazzle Spy the watering hole attack Spyware campaign. ",
         "display_name": "DazzleSpy",
         "name": "DazzleSpy",
